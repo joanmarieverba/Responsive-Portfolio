@@ -193,10 +193,21 @@ div.item {
     .leftbox {
         display: block;
         width: 80%;
+        margin-left: 10vw;
     }
     .social {
         display: block;
         width: 80%;
+        margin-left: 10vw;
+    }
+
+    .boxwidth {
+        width: 70vw;
+    }
+
+    .msgbox {
+        width: 70vw;
+        height: 130px;
     }
 }
 
@@ -222,12 +233,6 @@ div.item {
         height: 130px;
     }
 
-    footer: {
-        margin-top: 50vw;
-        position: absolute;
-        bottom: 0;
-    }
-
     header h1 {
         margin-left: 0;
         width: 100%;
@@ -242,8 +247,12 @@ div.item {
     nav {
         text-align: center;
         background-color: #ffffff;
-        height: 50px;
+        height: 60px;
+        margin-top: 0;
+        padding-top: 0;
   
     }
+    
+
 
 }
