@@ -209,6 +209,11 @@ div.item {
         width: 70vw;
         height: 130px;
     }
+
+    footer {
+        position:relative;
+        margin-top: 200vw;
+    }
 }
 
 @media screen and (max-width: 640px) {
