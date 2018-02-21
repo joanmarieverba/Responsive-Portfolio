@@ -242,16 +242,19 @@ div.item {
         margin-left: 0;
         width: 100%;
         padding-top: 5vw;
+        padding-bottom 0;
+        margin-bottom: 0;
     }
 
     li {
-        padding-top: 20vw;
+        padding-top: 18vw;
         margin: 0 12vw 0 2vw;
     }
 
     nav {
+
         text-align: center;
-        background-color: #ffffff;
+        background-color:#ffffff;
         height: 60px;
         margin-top: 0;
         padding-top: 0;
