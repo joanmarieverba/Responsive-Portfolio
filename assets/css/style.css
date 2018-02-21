@@ -253,6 +253,9 @@ div.item {
   
     }
     
-
+    footer {
+        position:relative;
+        margin-top: 340vw;
+    }
 
 }
